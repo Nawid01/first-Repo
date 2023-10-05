@@ -1,9 +1,9 @@
-# welcome to my Website 😃
+# welcome to my Website :D
 
 [Click for more Infomation](https://google.com)
 
 - [ ] CSS
-- [ ] JavaScript
+- [ ] JavaScriptttttt
 - [ ] HTML
 - [x] React
 
