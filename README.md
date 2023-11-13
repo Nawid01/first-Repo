@@ -1,4 +1,4 @@
-# welcome to my Website :D
+# Welcome
 
 [Click for more Infomation](https://google.com)
 
